@@ -1,4 +1,5 @@
 <img width="291" height="449" alt="image" src="https://github.com/user-attachments/assets/3cd0fa0f-4398-48a2-b544-0b7071f7a32f" />
+
 # Automated Hydrometer for Soil Particle-Size Analysis
 
 **A low-cost (< $70) system that automates the hydrometer test, measuring a soil's full particle-size distribution from 40 μm down to 2 μm in 8 hours with no manual readings.**
