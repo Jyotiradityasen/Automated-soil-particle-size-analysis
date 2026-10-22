@@ -89,5 +89,4 @@ The percentages of particles finer than **2, 5, 10, 20, and 40 μm** from the tw
 ## Reference
 
 This project is based on the following published study:
-
-> *[Authors]. [Paper title]. [Journal], [Year]. [DOI link]*
+There are other part which haven't been uploaded
